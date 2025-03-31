@@ -1,1 +1,2 @@
-# IJ_XML_Macro_Exts
+# ImageJ macro extension to process XML 
+
